@@ -111,4 +111,3 @@ High-impact contracts & strategic consults — reach out via **[FINESSEANDCOUNTE
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chuckyLeeVIII&show_icons=true&rank_icon=github&theme=radical&cache_seconds=86400&hide_border=true" /><br/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuckyLeeVIII&layout=compact&theme=radical&cache_seconds=86400&hide_border=true" /><br/>
 </p>
-```
