@@ -6,8 +6,8 @@
       src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=44&duration=1&pause=999999&color=00C853&center=false&vCenter=true&repeat=false&width=720&lines=2Mr.Nixon2%20//%20chuckyLeeVIII"/>
     <sup>
       <img
-        alt="OG"
-        src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=35&lines=OG"/>
+        alt=<"OG">
+        src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=35&lines= <OG"/>
     </sup>
   </nobr>
 </p>
