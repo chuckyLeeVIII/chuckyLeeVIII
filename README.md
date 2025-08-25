@@ -1,7 +1,13 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=800&size=28&duration=4000&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=2Mr.Nixon2+%2F%2F+chuckyLeeVIII;CYBERNETIC+ARCHITECT;ARCHITECT+OF+TRUSTLESS+SYSTEMS;OPSEC+ADVOCATE+%C2%B7+PROTOCOL+ENGINEER" alt="Typing SVG">
-  </a>
+
+  <h1>
+    <span style="color:#00F3FF; text-shadow:0 0 8px #00F3FF, 0 0 16px #00F3FF;">D̵̼̱̘̏̏A̷̢̰͕͕͛̒̄͠M̸͈̲̩̦̅Ä̶͔́͊G̶̦̳̀̕͝Ĕ̶̤̞͕̈́̅͐D̸̨̦̈́̈́̈́</span>
+    <br>
+    <span style="color:#00F3FF; text-shadow:0 0 8px #00F3FF, 0 0 16px #00F3FF;">2̶̡͓͉̦͋͆̋͊̍M̷̪͎̰̈́̾r̴̠̜̆̽.̷̳̏̏̈́N̸̡̞̽i̴̬̾̓x̵̠̓̎o̷͍͌n̷̯̼̓̔2̸̡̤̅̈́ // chuckyLeeVIII</span>
+    <br>
+    💙✨
+  </h1>
+
 </div>
 
 > ## MY WORK IS MY WORD — 100% TRUSTLESS
