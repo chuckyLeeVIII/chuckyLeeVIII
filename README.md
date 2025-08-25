@@ -10,7 +10,7 @@
 
 </div>
 
-> ## MY WORK IS MY WORD — 100% TRUSTLESS
+> ##                                                                 MY WORK IS MY WORD — 100% TRUSTLESS
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/VisitorBadge?pageId=chuckyLeeVIII.chuckyLeeVIII&label=SYSTEM%20ACCESS&labelColor=0a0a0a&color=d400ff&style=for-the-badge" alt="Visitor Counter">
