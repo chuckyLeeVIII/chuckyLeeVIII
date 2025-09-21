@@ -1,1 +1,32 @@
+<!-- assets/header-glow.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">
+  <defs>
+    <!-- strong neon purple glow -->
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="3" result="b1"/>
+      <feGaussianBlur stdDeviation="6" in="b1" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .line { fill:#BA55D3; font-weight:700; font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif; text-anchor:middle; }
+    </style>
+  </defs>
+
+  <!-- Line 1 -->
+  <text class="line" x="450" y="62" font-size="52" filter="url(#neon)">
+    D̵̼̱̘̏̏A̷̢̰͕͕͛̒̄͠M̸͈̲̩̦̅Ä̶͔́͊G̶̦̳̀̕͝Ĕ̶̤̞͕̈́̅͐D̸̨̦̈́̈́̈́
+  </text>
+
+  <!-- Line 2 -->
+  <text class="line" x="450" y="115" font-size="36" filter="url(#neon)">
+    2̶̡͓͉̦͋͆̋͊̍M̷̪͎̰̈́̾r̴̠̜̆̽.̷̳̏̏̈́N̸̡̞̽i̴̬̾̓x̵̠̓̎o̷͍͌n̷̯̼̓̔2̸̡̤̅̈́ // chuckyLeeVIII
+  </text>
+
+  <!-- Line 3 -->
+  <text class="line" x="450" y="150" font-size="32" filter="url(#neon)">💜✨</text>
+</svg>
 
