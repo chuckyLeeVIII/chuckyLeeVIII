@@ -202,7 +202,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=FINESSEANDCOUNTERFITS816@proton.me">Gmail</a> ·
     <a href="https://outlook.live.com/mail/0/deeplink/compose?to=FINESSEANDCOUNTERFITS816@proton.me">Outlook</a> ·
     <a href="https://compose.mail.yahoo.com/?to=FINESSEANDCOUNTERFITS816@proton.me">Yahoo</a> ·
-    <a href="https://mail.proton.me/u/0/compose?to=FINESSEANDCOUNTERFITS816@proton.me">Proton</a>
+    <a href="https://mail.proton.me/u/0/compose?to=FINESSEANDCOUNTERFITS816@protonmail.com">Proton</a>
   </sub>
 </p>
 
